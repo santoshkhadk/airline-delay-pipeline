@@ -26,15 +26,12 @@ Monthly/Seasonal Trends: Peak delay months.
 Visualizations
 
 # Project Structure
+```text
 flight-delay-analysis/
 │
 ├─ data/                  
 ├─ notebooks/             
 ├─ visualizations/       
-
-
-
-
-
 ├─ README.md
 └─ requirements.txt
+```
