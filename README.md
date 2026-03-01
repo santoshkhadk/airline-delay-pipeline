@@ -3,13 +3,13 @@
 
 # Flight-Delay-Data-Pipeline-Analysis
 
-[Dataset Link](https://www.kaggle.com/datasets/sriharshaeedala/airline-delay/data)
+# Dataset Link[(https://www.kaggle.com/datasets/sriharshaeedala/airline-delay/data](https://www.kaggle.com/datasets/sriharshaeedala/airline-delay/data)
 
-=====
 
-“This project analyzes flight delay patterns across US airports and airlines using historical flight data. It includes both overall trends and specific insights for individual airports and carriers.”
 
-=====
+This project analyzes flight delay patterns across US airports and airlines using historical flight data. It includes both overall trends and specific insights for individual airports and carriers.
+
+
 # Technologies Used:
 
 Python
