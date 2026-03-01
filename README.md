@@ -27,11 +27,10 @@ Visualizations
 
 # Project Structure
 ```text
-flight-delay-analysis/
+airline-delay/
 │
 ├─ data/                  
-├─ notebooks/             
-├─ visualizations/       
+├─ notebooks/                  
 ├─ README.md
 └─ requirements.txt
 ```
